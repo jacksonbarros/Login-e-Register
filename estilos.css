@@ -1,0 +1,76 @@
+	body{
+		background-color:#2e3137;
+	}
+	body h1{
+		color:#3699ce;
+		text-align: center;
+		font-family: arial;
+	}
+	body h2{
+		color:#808591;
+		text-align: center;
+		background-color:#454955;
+	}
+	#login-box{
+		background-color:#22262b;
+		width:380px;
+		height:560px;
+		margin:50px auto 0px;
+		border-radius:5px;
+	}
+	.label{
+		margin: 10px;
+		color:#979aa2;
+	}
+	input{
+		margin: 10px;
+		background-color:#454955;
+		border-radius: 5px;
+		width: 350px;
+	}
+	.Termos{
+		color: white;
+		margin: 10px;
+	}
+	.SignIn{
+		background-color: #289fd2;
+		border-radius: 5px;
+		color: white;
+		margin: 5px;
+	}
+	.FACEBOOK{
+		border-radius: 5px;
+		background-color: #3c4498;
+		color: #faffff;
+		width:350px;
+		margin: 10px;
+		height:30px;
+	}
+	.TWITTER{
+		border-radius: 5px;
+		background-color: #00c4fe;
+		color: #faffff;
+		width:350px;
+		margin: 10px;
+		height:30px;
+	}
+	.GOOGLE{
+		border-radius: 5px;
+		background-color: #de0000;
+		color: #faffff;
+		width:350px;
+		margin: 10px;
+		height:30px;
+	}
+	.link{
+		margin: 30px;
+	}
+	.button{
+		border-radius: 5px;
+		background-color: #545867;
+		color: #faffff;
+		width:350px;
+		margin: 10px;
+		height:30px;
+	}
+	
